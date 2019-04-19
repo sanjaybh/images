@@ -1,0 +1,28 @@
+Project - images
+Fx - Vue JS
+npm install --save axios lodash qs vue-router vuex
+
+
+Semantic UI for css
+--------------------
+https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
+
+
+
+VueX Module
+-------------
+State - that manages the entire big list/pile of data inside our application
+getters - does some type of computation / calculation on that state
+
+mutations - which are functions that define a very specific way of updating our state
+actions - that assemble together multiple mutations and execute them all in some defined series
+
+
+https://github.com/sanjaybh/images
+
+https://cdnjs.com/#
+
+https://apidocs.imgur.com/#authorization-and-oauth
+
+https://semantic-ui.com
+
