@@ -9,6 +9,7 @@ import UploadForm from "./components/UploadForm";
 
 Vue.use(VueRouter);
 
+//latest changes - 2 May 19
 export const router = new VueRouter({
   mode: "history",
   routes: [
