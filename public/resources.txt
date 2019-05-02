@@ -17,6 +17,16 @@ getters - does some type of computation / calculation on that state
 mutations - which are functions that define a very specific way of updating our state
 actions - that assemble together multiple mutations and execute them all in some defined series
 
+imgur.com
+---------
+Client ID
+325a7c41cad7bf2
+
+Client Secret
+7e289650c7298cc32a3b9bc61a930a2786c7bb54
+
+
+
 
 https://github.com/sanjaybh/images
 
@@ -26,3 +36,6 @@ https://apidocs.imgur.com/#authorization-and-oauth
 
 https://semantic-ui.com
 
+---------------
+https://translate.yandex.com/developers/keys?
+trnsl.1.1.20190421T054405Z.86aa4e28b6df0662.a9d74eebcea0a477f99f01948faa8f1ba89f4818
